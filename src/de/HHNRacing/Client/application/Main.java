@@ -1,4 +1,4 @@
-package application;
+package de.HHNRacing.Client.application;
 	
 import javafx.application.Application;
 import javafx.stage.Stage;
